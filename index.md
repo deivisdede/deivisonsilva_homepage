@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Graduação em Engeharia Elétrica
+  Universidade Federal de Minas Gerias.
 
-You can use the [editor on GitHub](https://github.com/deivisdede/deivisonsilva_homepage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Consultoria E projetos Elétricos Júnior
+###  Consultor de Tecnologia
+Esse trabalho consiste na execução de projetos das áreas do portifólio da empresa, que são: eletrônica, automação residência, sistemas web, sites, projetos elétricos, luminotécnicos e SPDA.
 
 ```markdown
 Syntax highlighted code block
